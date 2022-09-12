@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="composeWeb-js">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="composeWeb-js.jar">
+      <element id="module-output" name="composeWeb.jsMain" />
+    </root>
+  </artifact>
+</component>
